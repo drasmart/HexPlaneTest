@@ -61,7 +61,7 @@ Shader "Projector/Override (Tiled 2)" {
 				}
 				res.a = max(texS.a, texS2.a);
 
-				//UNITY_APPLY_FOG_COLOR(i.fogCoord, res, fixed4(0,0,0,0));
+				UNITY_APPLY_FOG_COLOR(i.fogCoord, res, fixed4(0,0,0,0));
 				return res;
 			}
 			ENDCG
