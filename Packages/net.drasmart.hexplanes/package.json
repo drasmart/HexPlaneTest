@@ -1,0 +1,32 @@
+{
+    "displayName": "Hex Planes",
+    "name": "net.drasmart.hexplanes",
+    "version": "1.0.0",
+
+    "description": "Custom shaders (and other assets) to display hexagonal grids.",
+    "author": {
+        "name" : "Maksym Kucherov",
+        "email" : "maximus.the0@gmail.com",
+        "url" : "https://drasmart.net/"
+     },
+
+    "unity": "6000.0",
+    "unityRelease": "47f1",
+
+    "dependencies": {
+        "com.unity.shadergraph": "17.0.4"
+    },
+
+    "samples": [
+        {
+            "displayName": "Projectors Demo",
+            "description": "Uses projectors to apply hexagonal grid from textures to meshes in world.",
+            "path": "Samples~/Projectors"
+        },
+        {
+            "displayName": "Shaded Materials Demo",
+            "description": "Uses custom shader graph to procedurally render hexagons as part of mesh material.",
+            "path": "Samples~/ShaderMats"
+        }
+    ]
+}

@@ -166,6 +166,14 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "net.drasmart.hexplanes": {
+      "version": "file:net.drasmart.hexplanes",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.shadergraph": "17.0.4"
+      }
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
