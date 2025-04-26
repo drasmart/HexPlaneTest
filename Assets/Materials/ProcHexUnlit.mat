@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ProcHex
-  m_Shader: {fileID: -6465566751694194690, guid: 956e91f17f7aea7489e5114383e5df0f,
+  m_Name: ProcHexUnlit
+  m_Shader: {fileID: -6465566751694194690, guid: 629be3d6e6182b5428436841683a84b2,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -89,12 +89,12 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Emission: 0.6
+    - _Emission: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HexTileFactor: 3
-    - _LineWidth: 0.302
+    - _HexTileFactor: 100
+    - _LineWidth: 0.2
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -105,14 +105,14 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _AlphaPositions: {r: 0, g: 0.9, b: 0, a: 0}
-    - _BaseTileFactor: {r: 3, g: 3, b: 0, a: 0}
+    - _AlphaPositions: {r: 0.2, g: 0.8, b: 0, a: 0}
+    - _BaseTileFactor: {r: 100, g: 100, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _ColorPositions: {r: 0, g: 0.32, b: 0, a: 0}
+    - _ColorPositions: {r: 0, g: 0.6, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EndColor: {r: 0, g: 1, b: 1, a: 1}
-    - _InnerColor: {r: 0, g: 0, b: 0, a: 0.4392157}
-    - _OuterColor: {r: 0, g: 0.7176471, b: 0.05789423, a: 1}
+    - _InnerColor: {r: 1, g: 0, b: 1, a: 1}
+    - _OuterColor: {r: 0, g: 1, b: 1, a: 1}
     - _StartColor: {r: 1, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

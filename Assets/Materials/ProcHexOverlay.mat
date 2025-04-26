@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ProcHex
-  m_Shader: {fileID: -6465566751694194690, guid: 956e91f17f7aea7489e5114383e5df0f,
+  m_Name: ProcHexOverlay
+  m_Shader: {fileID: -6465566751694194690, guid: ad16c4a89c53b3244bae354a53ce6e72,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -94,7 +94,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _HexTileFactor: 3
-    - _LineWidth: 0.302
+    - _LineWidth: 0.4
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -111,8 +111,8 @@ Material:
     - _ColorPositions: {r: 0, g: 0.32, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EndColor: {r: 0, g: 1, b: 1, a: 1}
-    - _InnerColor: {r: 0, g: 0, b: 0, a: 0.4392157}
-    - _OuterColor: {r: 0, g: 0.7176471, b: 0.05789423, a: 1}
+    - _InnerColor: {r: 0.44654083, g: 0.18956916, b: 0.18956916, a: 0.4392157}
+    - _OuterColor: {r: 0.735849, g: 0.27778706, b: 0.1689212, a: 1}
     - _StartColor: {r: 1, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
