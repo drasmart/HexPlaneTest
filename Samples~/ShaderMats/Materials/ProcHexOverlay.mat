@@ -111,6 +111,7 @@ Material:
     - _ColorPositions: {r: 0, g: 0.32, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EndColor: {r: 0, g: 1, b: 1, a: 1}
+    - _HexTileOptions: {r: 3, g: 3, b: 0, a: 0}
     - _InnerColor: {r: 0.44654083, g: 0.18956916, b: 0.18956916, a: 0.4392157}
     - _OuterColor: {r: 0.735849, g: 0.27778706, b: 0.1689212, a: 1}
     - _StartColor: {r: 1, g: 0, b: 1, a: 1}

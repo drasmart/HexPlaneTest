@@ -1,9 +1,10 @@
 {
     "displayName": "Hex Planes",
     "name": "net.drasmart.hexplanes",
-    "version": "1.0.0",
+    "version": "2.0.0",
 
     "description": "Custom shaders (and other assets) to display hexagonal grids.",
+    "changelogUrl": "https://raw.githubusercontent.com/drasmart/HexPlanes/refs/heads/master/CHANGELOG.md",
     "author": {
         "name" : "Maksym Kucherov",
         "email" : "maximus.the0@gmail.com",
