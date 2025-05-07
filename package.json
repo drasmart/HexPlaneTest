@@ -1,7 +1,7 @@
 {
     "displayName": "Hex Planes",
     "name": "net.drasmart.hexplanes",
-    "version": "2.0.1",
+    "version": "2.0.2",
 
     "description": "Custom shaders (and other assets) to display hexagonal grids.",
     "changelogUrl": "https://github.com/drasmart/HexPlanes/blob/master/CHANGELOG.md",
@@ -12,7 +12,7 @@
      },
 
     "unity": "6000.0",
-    "unityRelease": "47f1",
+    "unityRelease": "48f1",
 
     "dependencies": {
         "com.unity.shadergraph": "17.0.4"
